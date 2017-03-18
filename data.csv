@@ -1,12 +1,141 @@
-Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-Trinity College,"300 Summit St, Hartford CT 06106",41.7486373,-72.6928403,"300 Summit St, Hartford, CT 06106, USA",Match,Google
-Capital Community College,950 Main St Hartford CT 06103,41.7681699,-72.6730624,"950 Main St, Hartford, CT 06103, USA",Match,Google
-University of Hartford,"200 Bloomfield Ave, West Hartford CT 06117",41.7950017,-72.7154937,"200 Bloomfield Ave, West Hartford, CT 06117, USA",Match,Google
-Charter Oak State College,"55 Manafort Drive, New Britain CT 06053",41.6882257,-72.7679837,"55 Paul Manafort Dr, New Britain, CT 06053, USA",Partial Match,Google
-Hartford Seminary,"77 Sherman St, Hartford CT 06053",41.7698571,-72.7077092,"77 Sherman St, Hartford, CT 06105, USA",Partial Match,Google
-St. Thomas Seminary,"467 Bloomfield Ave, Bloomfield CT 06002",41.807201,-72.7333619,"467 Bloomfield Ave, Bloomfield, CT 06002, USA",Match,Google
-University of Connecticut-Hartford,"14 Prospect St, Hartford CT 06103",41.762617,-72.6727081,"14 Prospect St, Hartford, CT 06103, USA",Match,Google
-Central Connecticut State University,"1615 Stanley St, New Britain CT 06050",41.6908213,-72.7709932,"1615 Stanley St, New Britain, CT 06051, USA",Partial Match,Google
-Goodwin College,"1 Riverside Drive, East Hartford CT 06118",41.7428246,-72.6404704,"1 Riverside Dr, East Hartford, CT 06118, USA",Match,Google
-Manchester Community College,"Great Path, Manchester CT 06040",41.7622906,-72.5670043,"Great Path, Manchester, CT 06040, USA",Match,Google
-University of St. Joseph,"1678 Asylum Ave, West Hartford CT 06117",41.7809411,-72.7284173,"1678 Asylum Ave, West Hartford, CT 06117, USA",Match,Google
+Title,Latitude,	Longitude,Country name,	Match, Quality,	Source
+Abu Dhabi	24.453884	54.3773438	Abu Dhabi - United Arab Emirates	Match	Google
+Abuja	9.0764785	7.398574	Abuja, Nigeria	Match	Google
+Accra	5.6037168	-0.1869644	Accra, Ghana	Match	Google
+Adamstown	40.2412035	-76.0563303	Adamstown, PA, USA	Match	Google
+Addis Ababa	8.9806034	38.7577605	Addis Ababa, Ethiopia	Match	Google
+Algiers	36.753768	3.0587561	Algiers, Sidi M'Hamed, Algeria	Match	Google
+Alofi	-19.0553711	-169.9178709	Alofi, Niue	Match	Google
+Amman	31.9453666	35.9283716	Amman, Jordan	Match	Google
+Amsterdam	52.3702157	4.8951679	Amsterdam, Netherlands	Match	Google
+Andorra la Vella	42.5063174	1.5218355	AD500 Andorra la Vella, Andorra	Match	Google
+Ankara	39.9333635	32.8597419	Ankara, Turkey	Match	Google
+Antananarivo	-18.8791902	47.5079055	Antananarivo, Madagascar	Match	Google
+Apia	-13.8506958	-171.7513551	Apia, Samoa	Match	Google
+Ashgabat	37.9600766	58.3260629	Ashgabat, Turkmenistan	Match	Google
+Asmara	15.3228767	38.9250517	Asmara, Eritrea	Match	Google
+Astana	51.1605227	71.4703558	Astana 020000, Kazakhstan	Match	Google
+Asunción	-25.2637399	-57.575926	Asuncion, Paraguay	Match	Google
+Athens	37.9838096	23.7275388	Athens, Greece	Match	Google
+Avarua	-21.2129007	-159.7823059	Avarua District, Cook Islands	Match	Google
+Baghdad	33.3128057	44.3614875	Baghdad, Iraq	Match	Google
+Baku	40.4092617	49.8670924	Baku, Azerbaijan	Match	Google
+Bamako	12.6392316	-8.0028892	Bamako, Mali	Match	Google
+Bandar Seri Begawan	4.9030522	114.939821	Bandar Seri Begawan, Brunei	Match	Google
+Bangkok	13.7563309	100.5017651	Bangkok, Thailand	Match	Google
+Bangui	4.3946735	18.5581899	Bangui, Central African Republic	Match	Google
+Banjul	13.4548761	-16.5790323	Banjul, The Gambia	Match	Google
+Basse-Terre	16.0341215	-61.6947193	Basse-Terre, Guadeloupe	Match	Google
+Basseterre	17.3026058	-62.7176924	Basseterre, St. Kitts & Nevis	Match	Google
+Beirut	33.8937913	35.5017767	Beirut, Lebanon	Match	Google
+Belgrade	44.786568	20.4489216	Belgrade, Serbia	Match	Google
+Belmopan	17.2510114	-88.7590201	Belmopan, Belize	Match	Google
+Berlin	52.5200066	13.404954	Berlin, Germany	Match	Google
+Bern	46.9479739	7.4474468	Bern, Switzerland	Match	Google
+Bishkek	42.8746212	74.5697617	Bishkek, Kyrgyzstan	Match	Google
+Bissau	11.8816553	-15.6177942	Bissau, Guinea-Bissau	Match	Google
+Bogotá	4.7109886	-74.072092	Bogotá, Bogota, Colombia	Match	Google
+Brades	16.7909044	-62.2106241	Brades, Montserrat	Partial Match	Google
+Brasília	-15.7941569	-47.8825289	Brasilia - Federal District, Brazil	Match	Google
+Bratislava	48.1485965	17.1077477	Bratislava, Slovakia	Match	Google
+Brazzaville	-4.2633597	15.2428853	Brazzaville, Republic of the Congo	Match	Google
+Bridgetown	13.0968511	-59.6144819	Bridgetown, Barbados	Match	Google
+Brussels	50.8503396	4.3517103	Brussels, Belgium	Match	Google
+Budapest	47.497912	19.040235	Budapest, Hungary	Match	Google
+Buenos Aires	-34.6036844	-58.3815591	Buenos Aires, Autonomous City of Buenos Aires, Argentina	Match	Google
+Bujumbura	-3.361378	29.3598782	Bujumbura, Burundi	Match	Google
+Bucharest	44.4267674	26.1025384	Bucharest, Romania	Match	Google
+Canberra	-35.2809368	149.1300092	Canberra ACT 2601, Australia	Match	Google
+Caracas	10.4805937	-66.9036063	Caracas, Capital District, Venezuela	Match	Google
+Castries	14.0101094	-60.9874687	Castries, Saint Lucia	Match	Google
+Cayenne	4.92242	-52.3134531	Cayenne, French Guiana	Match	Google
+Charlotte Amalie	18.3419004	-64.9307007	Charlotte Amalie, St Thomas 00802, USVI	Match	Google
+Chisinau	47.0104529	28.8638103	Chisinau, Moldova	Match	Google
+Cockburn Town	21.4674584	-71.1389101	Cockburn Town TKCA 1ZZ, Turks and Caicos Islands	Match	Google
+Colombo	6.9270786	79.861243	Colombo, Sri Lanka	Match	Google
+Conakry	9.6411855	-13.5784012	Conakry, Guinea	Match	Google
+Concelho de Macau	Macau	MO	520400	No Match	Google
+Copenhagen	55.6760968	12.5683371	Copenhagen, Denmark	Match	Google
+Dakar	14.7645042	-17.3660286	Dakar, Senegal	Match	Google
+Damascus	33.5138073	36.2765279	Damascus, Syria	Match	Google
+Dhaka	23.810332	90.4125181	Dhaka, Bangladesh	Match	Google
+Dili	-8.5568557	125.5603143	Díli, Timor-Leste	Match	Google
+Djibouti	11.825138	42.590275	Djibouti	Match	Google
+Dodoma	-6.162959	35.7516069	Dodoma, Tanzania	Match	Google
+Doha	25.2854473	51.5310398	Doha, Qatar	Match	Google
+Douglas	31.5088073	-82.8498654	Douglas, GA, USA	Match	Google
+Dublin	53.3498053	-6.2603097	Dublin, Ireland	Match	Google
+Dushanbe	38.5597722	68.7870384	Dushanbe, Tajikistan	Match	Google
+El Aaiún	27.1252867	-13.1625005	El-Aaiún	Match	Google
+Flying Fish Cove	-10.4318725	105.6735131	Flying Fish Cove, Christmas Island	Match	Google
+Fort-de-France	14.6160647	-61.0587804	Fort-de-France Bay, Martinique	Match	Google
+Freetown	8.4656765	-13.2317225	Freetown, Sierra Leone	Match	Google
+Funafuti	-8.5211471	179.1961926	Funafuti, Tuvalu	Match	Google
+Gaborone	-24.6282079	25.9231471	Gaborone, Botswana	Match	Google
+George Town	38.9097057	-77.0653565	Georgetown, Washington, DC, USA	Match	Google
+Georgetown	38.9076089	-77.0722585	3700 O St NW, Washington, DC 20057, USA	Match	Google
+Gibraltar	36.140751	-5.353585	Gibraltar	Match	Google
+Guatemala City	14.6349149	-90.5068824	Guatemala City, Guatemala	Match	Google
+Gustavia	17.8964345	-62.852201	Gustavia, Saint-Barthélemy	Match	Google
+Hagåtña	13.4762824	144.7502228	Hagåtña, Guam	Match	Google
+Hamilton	39.3995008	-84.5613355	Hamilton, OH, USA	Match	Google
+Hanoi	21.0277644	105.8341598	Hanoi, Hoàn Kiếm, Hanoi, Vietnam	Match	Google
+Harare	-17.8251657	31.03351	Harare, Zimbabwe	Match	Google
+Havana	23.1135925	-82.3665956	Havana, Cuba	Match	Google
+Helsinki	60.1698557	24.938379	Helsinki, Finland	Match	Google
+Hong Kong	22.396428	114.109497	Hong Kong	Match	Google
+Honiara	-9.4456381	159.9728999	Honiara, Solomon Islands	Match	Google
+Islamabad	33.7293882	73.0931461	Islamabad, Pakistan	Match	Google
+Jakarta	-6.1744651	106.822745	Jakarta, Indonesia	Match	Google
+Ascension and Tristan da Cunha	-15.9654353	-5.7115281	Saint Helena, Ascension and Tristan da Cunha	Match	Google
+Yaoundé	3.8480325	11.5020752	Yaounde, Cameroon	Match	Google
+Yerevan	40.1791857	44.4991029	Yerevan, Armenia	Match	Google
+Jerusalem	31.768319	35.21371	Jerusalem, Israel	Match	Google
+Juba	4.859363	31.57125	Juba, South Sudan	Match	Google
+Kabul	34.5553494	69.207486	Kabul, Afghanistan	Match	Google
+Cairo	30.0444196	31.2357116	Cairo, Cairo Governorate, Egypt	Match	Google
+Kampala	0.3475964	32.5825197	Kampala, Uganda	Match	Google
+Kathmandu	27.7172453	85.3239605	Kathmandu 44600, Nepal	Match	Google
+Khartoum	15.5006544	32.5598994	Khartoum, Sudan	Match	Google
+Kiev	50.4501	30.5234	Kiev, Ukraine	Match	Google
+Kigali	-1.9705786	30.1044288	Kigali, Rwanda	Match	Google
+King Edward Point	-54.2832502	-36.493735	King Edward Point SIQQ 1ZZ, South Georgia and the South Sandwich Islands	Match	Google
+Kingston	44.2311717	-76.4859544	Kingston, ON, Canada	Match	Google
+Kingston	44.2311717	-76.4859544	Kingston, ON, Canada	Match	Google
+Kingstown	13.1600249	-61.2248157	Kingstown, St Vincent and the Grenadines	Match	Google
+Kinshasa	-4.4419311	15.2662931	Kinshasa, Democratic Republic of the Congo	Match	Google
+Kuala Lumpur	3.139003	101.686855	Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia	Match	Google
+Kuwait City	29.375859	47.9774052	Kuwait City, Kuwait	Match	Google
+Libreville	0.4161976	9.4672676	Libreville, Gabon	Match	Google
+Lilongwe	-13.9626121	33.7741195	Lilongwe, Malawi	Match	Google
+Lima	-12.046374	-77.0427934	Lima District, Peru	Match	Google
+Lisbon	38.7222524	-9.1393366	Lisbon, Portugal	Match	Google
+Ljubljana	46.0569465	14.5057515	Ljubljana, Slovenia	Match	Google
+Lomé	6.1724969	1.2313618	Lome, Togo	Match	Google
+London	51.5073509	-0.1277583	London, UK	Match	Google
+Longyearbyen	78.2231722	15.626723	Longyearbyen, Svalbard and Jan Mayen	Match	Google
+Luanda	-8.8399876	13.2894368	Luanda, Angola	Match	Google
+Lusaka	-15.3875259	28.3228165	Lusaka, Zambia	Match	Google
+Luxembourg	49.815273	6.129583	Luxembourg	Match	Google
+Madrid	40.4167754	-3.7037902	Madrid, Spain	Match	Google
+Majuro	7.1164214	171.1857736	Majuro, Majuro Atoll, RMI	Match	Google
+Malabo	3.7504118	8.7371039	Malabo, Equatorial Guinea	Match	Google
+Male	4.1754959	73.5093474	Male, Maldives	Match	Google
+Mamoudzou	-12.7809488	45.227872	Mamoudzou, Mayotte	Match	Google
+Managua	12.1149926	-86.2361744	Managua, Nicaragua	Match	Google
+Manama	26.2285161	50.5860497	Manama, Bahrain	Match	Google
+Manila	14.5995124	120.9842195	Manila, Metro Manila, Philippines	Match	Google
+Maputo	-25.891968	32.6051351	Maputo, Mozambique	Match	Google
+Mariehamn	60.0970945	19.9348339	Mariehamn, Åland Islands	Match	Google
+Maseru	-29.3632188	27.5143603	Maseru, Lesotho	Match	Google
+Mata-Utu	-13.2825091	-176.1764475	Matā'utu, Wallis and Futuna	Match	Google
+Mbabane	-26.3054482	31.1366715	Mbabane, Swaziland	Match	Google
+Mexico City	19.4326077	-99.133208	Mexico City, CDMX, Mexico	Match	Google
+Minsk	53.9045398	27.5615244	Minsk, Belarus	Match	Google
+Mogadishu	2.0469343	45.3181623	Mogadishu, Somalia	Match	Google
+Monaco	43.7384176	7.4246158	Monaco	Match	Google
+Monrovia	34.1442616	-118.0019482	Monrovia, CA, USA	Match	Google
+Montevideo	-34.9011127	-56.1645314	Montevideo, Montevideo Department, Uruguay	Match	Google
+Moroni	-11.7172157	43.2473146	Moroni, Comoros	Match	Google
+Moscow	55.755826	37.6173	Moscow, Russia	Match	Google
+Muscat	23.58589	58.4059227	Muscat, Oman	Match	Google
